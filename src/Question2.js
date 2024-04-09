@@ -81,7 +81,7 @@ class TicketChecker {
 }
 const guests = [
   new Guest(1),
-  new Guest(-3),
+  new Guest(3),
   new Guest(5),
   new Guest(25),
   new Guest(35),
