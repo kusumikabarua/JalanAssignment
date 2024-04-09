@@ -1,3 +1,6 @@
+//Time complexity :O(N)
+//Space complexity :O(N)
+
 const arrangeArray = (arr) => {
   let positiveArr = [],
     negativeArr = [],
